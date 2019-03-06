@@ -1,0 +1,4 @@
+Dynamic NAT has some similarities and differences compared to static NAT. Like static
+NAT, the NAT router creates a one-to-one mapping between an inside local and inside
+global address and changes the IP addresses in packets as they exit and enter the inside
+network. However, the mapping of an inside local address to an inside global address happens dynamically.
